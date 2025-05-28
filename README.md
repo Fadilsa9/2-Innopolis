@@ -1,6 +1,6 @@
-# Innopolis tasks
+# Innopolis Projects
 
-# Fadilsa9/2-Innopolis: My Innopolis Projects
+# My Innopolis tasks
 
 Welcome to the **Innopolis Projects Repository**, a collection of projects and assignments developed as part of the academic program at **Innopolis University**. This repository highlights practical applications of data science, machine learning, deep learning, and DevOps techniques.
 
@@ -35,29 +35,6 @@ This repository contains:
 ├── results/            # Outputs and visualizations
 └── README.md           # Documentation
 ```
-
-## How to Use
-1. Clone the repository:
-   ```
-   git clone https://github.com/Fadilsa9/2-Innopolis.git
-   cd 2-Innopolis
-   ```
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebooks or scripts for the desired project.
-
-## Latest Updates
-- **May 28, 2025**: Added new projects and documentation.
-- **May 16, 2025**: Improved deep learning models for classification tasks.
-- **April 21, 2025**: Integrated CI/CD pipelines using GitLab.
-
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes and submit a pull request.
 
 ## License
 This repository does not specify a license. For usage permissions, please contact the repository owner.
